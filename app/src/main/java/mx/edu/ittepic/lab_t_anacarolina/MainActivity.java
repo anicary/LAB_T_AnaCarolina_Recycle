@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void obtenerAlumnos(){
         for (int i=0;i< nombres.length;i++ ) {
-            listaAlumnos.add(new alumno(14401038,nombres[i],"@drawable/p","TICS"));
+            listaAlumnos.add(new alumno(14401038,nombres[i],"@drawable/p","ISC"));
         }
 
     }
